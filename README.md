@@ -8,8 +8,8 @@ on one plate, thumb on the other — and a six-axis force sensor sits under each
 area and grip force are measured on the same plate at the same time. Piezo actuators at the short
 ends of each plate drive an out-of-plane vibration, which modulates the friction the finger feels.
 
-TU Delft · Cognitive Robotics / Human-Robot Interaction · Tactile Machine Lab
-Q5 internship, 2026 · Po-Yu Hsieh
+TU Delft · Cognitive Robotics / Mechanical Engineering · Tactile Machine Lab
+Po-Yu Hsieh · Masters of ME-BMD, 2026
 
 ---
 
