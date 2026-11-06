@@ -1,0 +1,45 @@
+# No native CAD in this repository (Po-Yu, 2026-11-06). The SolidWorks model stays on
+# D:\Q5_Internship\_model. These patterns are what would leak in first if it ever changed —
+# delete the block to version the native files too.
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.SLDLFP
+*.sldprt
+*.sldasm
+*.slddrw
+*.sldlfp
+*.3dm
+
+# SolidWorks / Office working files
+~$*
+*.swbak
+swxJRNL.*
+Backup/
+Backup of *
+.~lock.*
+
+# Slicer output — the STL is the record, a toolpath is one printer's answer to it.
+# Remove these lines if a specific print profile ever has to be kept.
+*.gcode
+*.bgcode
+*.sl1
+*.ctb
+
+# Dated snapshot folders — git history IS the snapshot
+/stl/20??????_*/
+/stl/_archive/
+
+# Raw test data — safety net
+*.tif
+*.tiff
+*.npy
+*.mat
+*.mp4
+*.mov
+*.raw
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store

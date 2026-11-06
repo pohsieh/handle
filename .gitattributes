@@ -1,0 +1,19 @@
+# Binary: git must not rewrite line endings inside these, and a diff is meaningless
+*.stl  binary
+*.STL  binary
+*.3mf  binary
+*.xlsx binary
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+
+# ASCII, but the diff is useless
+*.step -diff
+*.stp  -diff
+*.STEP -diff
+*.STP  -diff
+*.obj  -diff
+
+# The BOM is meant to be diffable
+*.csv  text eol=lf
