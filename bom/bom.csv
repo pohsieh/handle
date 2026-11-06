@@ -1,0 +1,9 @@
+﻿Item,Type,Part number,Manufacturer,Supplier,Link,Qty,Unit price €,Total €,Notes
+MIPI CSI-2 Camera Modules,optics,,Korukesu,Korukesu,https://www.kurokesu.com/item/234C-CSI-M12,2,145.2,290.4,AR0234 sensor
+4.3mm M12 low distortion lens (L017),optics,,Korukesu,Korukesu,https://www.kurokesu.com/item/L017?utm_source=legacy_shop,2,47.19,94.38,Field of view ≈ 67deg
+22-pin 0.5mm pitch FPC Flex Cable - 20cm,optics,,Adafruit,Kiwi-electronics,https://www.kurokesu.com/item/L017?utm_source=legacy_shop,2,1.2,2.4,ADA-6036
+Borosilicate glass plate (105*22*3mm),optics,,,,https://www.kurokesu.com/item/L017?utm_source=legacy_shop,2,,,
+First Surface Mirror (45*55*1.25mm),optics,,Macada,Macada,https://www.macada-innovision.nl/uk/mirrors-glass/products/first-surface-mirrors,2,24.36,48.72,"Rectangular, sharp-off-belt grinding"
+Single-Ended Blue LED Filament - 3V 25mm,illumination,,Adafruit,Adafruit,https://www.adafruit.com/product/6143,4,2.5,10,Flexible
+Resense HEX12 6-axis F/T Sensor Kit,force,,Resense,Resense,https://www.resense.io/fileadmin/resense/Force_Torque_Sensors/Datenblaetter/ForceTorqueSensors_ResenseFlyer_HEX12.pdf,2,,,
+Raspberry Pi 5,compute,,,,,1,,,
